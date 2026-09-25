@@ -7,10 +7,10 @@ Actualmente estoy aprendiendo y desarrollando proyectos relacionados con **desar
 ## 🚀 Sobre mí
 
 * 🎓 Aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA.
-* 💻 Actualmente aprendiendo **Dart, Node.js, SQL.
+* 💻 Actualmente aprendiendo **Dart, Node.js, SQL**.
 * 🌐 Interesado en el desarrollo **Backend y Full Stack**.
 * 📱 Explorando el desarrollo de aplicaciones móviles con **Flutter**.
-* 🎮 Con interés en el desarrollo de videojuegos utilizando **Unity.
+* 🎮 Con interés en el desarrollo de videojuegos utilizando **Unity**.
 * 🗄️ Trabajando con bases de datos como **PostgreSQL, MySQL y Supabase**.
 * 🐳 Aprendiendo a trabajar con **Docker** y entornos de desarrollo.
 * 🔧 Me gusta aprender mediante proyectos prácticos y resolver problemas mientras desarrollo.
